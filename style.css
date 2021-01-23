@@ -295,6 +295,14 @@ ul{
     }
     .newsletter button{
         width:100%;
+        margin-bottom: 7%;
+        font-size: 15px;
+    }
+    .faeturepara{
+        font-size: 12px !important;
+    }
+    .featurehead{
+        font-size: 14px !important;
     }
 }
 @media screen and (min-device-width:768px)/*Desktop*/
@@ -332,6 +340,10 @@ ul{
     }
     .newsletter button{
         width:30%;height:3.5vh;display: inline;font-size: 16px; font-weight: 500;
+    }
+    .newsletter button{
+       
+        margin-bottom: 4%;
     }
 }
 /****Main Part Start****/
