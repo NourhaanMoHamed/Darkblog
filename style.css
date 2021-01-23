@@ -304,6 +304,12 @@ ul{
     .featurehead{
         font-size: 14px !important;
     }
+    footer i{
+        margin-left: 4% ;
+    }
+    .footerpara{
+        font-size: 12px;
+    }
 }
 @media screen and (min-device-width:768px)/*Desktop*/
 {
@@ -343,8 +349,8 @@ ul{
     }
     .newsletter button{
        
-        margin-bottom: 4%;
-    }
+        margin-bottom: 4%;    }
+
 }
 /****Main Part Start****/
 .intropart{
